@@ -18,7 +18,7 @@ function renderLeft() {
 
   if (state.step === 1) {
     imgs = [
-      [IMAGES.red, "Vermelho"],
+      [IMAGES.red, "Vermelha"],
       [IMAGES.blue, "Azul"],
       [IMAGES.toy, "Com um chaveiro"]
     ];
@@ -30,10 +30,10 @@ function renderLeft() {
 
   if (state.step === 3) {
     imgs = [
-      [IMAGES.red,"Vermelho"],
+      [IMAGES.red,"Vermelha"],
       [IMAGES.blue,"Azul"],
       [IMAGES.toy,"Com um chaveiro"],
-      [IMAGES.black,"Preto"],
+      [IMAGES.black,"Preta"],
       [IMAGES.sport,"Esportiva"],
       [IMAGES.kid,"Infantil"]
     ];
