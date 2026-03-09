@@ -18,9 +18,9 @@ function renderLeft() {
 
   if (state.step === 1) {
     imgs = [
-      [IMAGES.red, "Red"],
-      [IMAGES.blue, "Blue"],
-      [IMAGES.toy, "With keychain"]
+      [IMAGES.red, "Vermelho"],
+      [IMAGES.blue, "Azul"],
+      [IMAGES.toy, "Com um chaveiro"]
     ];
   }
 
@@ -30,12 +30,12 @@ function renderLeft() {
 
   if (state.step === 3) {
     imgs = [
-      [IMAGES.red,"Red"],
-      [IMAGES.blue,"Blue"],
-      [IMAGES.toy,"With keychain"],
-      [IMAGES.black,"Black"],
-      [IMAGES.sport,"Sport"],
-      [IMAGES.kid,"Kids"]
+      [IMAGES.red,"Vermelho"],
+      [IMAGES.blue,"Azul"],
+      [IMAGES.toy,"Com um chaveiro"],
+      [IMAGES.black,"Preto"],
+      [IMAGES.sport,"Esporte"],
+      [IMAGES.kid,"Infantil"]
     ];
   }
 
