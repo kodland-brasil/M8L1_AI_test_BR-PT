@@ -34,7 +34,7 @@ document.body.addEventListener("click", (e) => {
     const nextBtn = document.getElementById("btnNext");
 
     aiText.textContent = "…";
-    aiStatus.textContent = "Thinking...";
+    aiStatus.textContent = "Pensando...";
     aiText.classList.add("ai-thinking");
     aiStatus.classList.add("ai-thinking");
 
