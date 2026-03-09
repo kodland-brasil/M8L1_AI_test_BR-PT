@@ -44,7 +44,7 @@ export const steps = {
     aiStatus: "Agora eu já sei!",
 
     aiAfter: "Sim! Agora reconheço com confiança!",
-    aiStatusAfter: "O treinamento funciona!"
+    aiStatusAfter: "O treinamento funcionou!"
   },
 
   5: {
