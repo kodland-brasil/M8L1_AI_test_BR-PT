@@ -16,8 +16,8 @@ export const steps = {
 
   2: {
     title: "Erro de IA",
-    stage: "Verificação do teste",
-    bitik: "Verificando o teste...",
+    stage: "Teste de verificação",
+    bitik: "Fazendo o teste de verificação...",
     ai: "Isso não é uma mochila!",
     aiStatus: "Me confundi…",
 
