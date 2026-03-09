@@ -76,8 +76,8 @@ function renderRight() {
     </div>
 
     <div class="controls">
-      <button class="btn btn-main" id="btnTrain">✨ Action</button>
-      <button class="btn btn-next" id="btnNext" style="display:none;">Next ▶</button>
+      <button class="btn btn-main" id="btnTrain">✨ Ação</button>
+      <button class="btn btn-next" id="btnNext" style="display:none;">Próximo ▶</button>
     </div>
   `;
 }
