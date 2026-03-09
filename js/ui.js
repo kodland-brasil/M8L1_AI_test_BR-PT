@@ -25,7 +25,7 @@ function renderLeft() {
   }
 
   if (state.step === 2 || state.step === 4) {
-    imgs = [[IMAGES.black, "Test"]];
+    imgs = [[IMAGES.black, "Teste"]];
   }
 
   if (state.step === 3) {
@@ -34,13 +34,13 @@ function renderLeft() {
       [IMAGES.blue,"Azul"],
       [IMAGES.toy,"Com um chaveiro"],
       [IMAGES.black,"Preto"],
-      [IMAGES.sport,"Esporte"],
+      [IMAGES.sport,"Esportiva"],
       [IMAGES.kid,"Infantil"]
     ];
   }
 
   if (state.step === 5) {
-    imgs = [[IMAGES.bag, "Bag"]];
+    imgs = [[IMAGES.bag, "Bolsa"]];
   }
 
   document.getElementById("imageGrid").innerHTML = `
